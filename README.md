@@ -1,6 +1,6 @@
 # tyche
 
-*An api built with Python and Starlette.*
+*An api built with ThreadPool.*
 
 ## Installation
 
