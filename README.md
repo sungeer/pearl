@@ -1,6 +1,6 @@
 # tyche
 
-*An api built with ThreadPool.*
+*An api built with SQLAlchemy and ThreadPool.*
 
 ## Installation
 
