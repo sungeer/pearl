@@ -1,4 +1,4 @@
-# tyche
+# pearl
 
 *An api built with SQLAlchemy and ThreadPool.*
 
@@ -6,8 +6,8 @@
 
 clone:
 ```
-$ git clone git@github.com:sungeer/tyche.git
-$ cd tyche
+$ git clone git@github.com:sungeer/pearl.git
+$ cd pearl
 ```
 create & activate virtual env then install dependency:
 
